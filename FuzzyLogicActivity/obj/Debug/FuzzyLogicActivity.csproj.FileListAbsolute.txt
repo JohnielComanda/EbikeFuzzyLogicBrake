@@ -1,0 +1,11 @@
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\bin\Debug\FuzzyLogicActivity.exe.config
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\bin\Debug\FuzzyLogicActivity.exe
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\bin\Debug\FuzzyLogicActivity.pdb
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.csproj.AssemblyReference.cache
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.Form1.resources
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.Properties.Resources.resources
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.csproj.GenerateResource.cache
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.csproj.CoreCompileInputs.cache
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.exe
+C:\Users\Johniel\Desktop\Local Programs\FuzzyLogicActivity\FuzzyLogicActivity\obj\Debug\FuzzyLogicActivity.pdb
